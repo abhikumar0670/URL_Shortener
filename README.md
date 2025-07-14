@@ -1,6 +1,6 @@
 # URL Shortener React Application
 
-![App Screenshot](./public/screenshot.png) <!-- Replace with your image path -->
+![App Screenshot](./public/home.png) <!-- Replace with your image path -->
 
 A fully functional URL shortener web application built with React and Material-UI.
 
@@ -13,7 +13,6 @@ A fully functional URL shortener web application built with React and Material-U
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -33,14 +32,6 @@ A fully functional URL shortener web application built with React and Material-U
 - Comprehensive error handling
 - Logging middleware integration
 
----
-
-## Demo
-
-<!-- Optionally embed a video or GIF demo -->
-![Demo GIF](./public/demo.gif) <!-- Replace with your demo GIF path -->
-
----
 
 ## Installation
 
