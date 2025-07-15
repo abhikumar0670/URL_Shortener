@@ -4,10 +4,6 @@
 
 A fully functional URL shortener web application built with React and Material-UI.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.0.0-blue)](https://reactjs.org/)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-
 ---
 
 ## Table of Contents
